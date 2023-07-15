@@ -1,0 +1,7 @@
+name: MCTycoon
+author: Stellrow
+version: 1.0
+api-version: 1.14
+main: ro.Stellrow.MCTycoon.TycoonMain
+commands:
+  tycoon:
